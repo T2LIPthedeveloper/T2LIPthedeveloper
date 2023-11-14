@@ -8,7 +8,7 @@
 - Looking for internship opportunities in Software Engineering and Data Science in the USA for Summer 2024.
 
 **🌱 I’m currently learning:**
-- - Developing my skills in Java, Python, TensorFlow 2, C++, C#, JavaScript (React, Angular, Node.js), and HTML5.
+- Developing my skills in Java, Python, TensorFlow 2, C++, C#, JavaScript (React, Angular, Node.js), and HTML5.
 - Exploring new technologies and tools to stay updated in the ever-evolving field of computer science and design. 
 
 **👯 I’m looking to collaborate on:**
