@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I'm Atul Parida.</h1>
 <p align='center'>
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
 **🔭 I’m currently working on:** 
 - My undergraduate studies in Computer Science & Design at the Singapore University of Technology and Design (SUTD).
