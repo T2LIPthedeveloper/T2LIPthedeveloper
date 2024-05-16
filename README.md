@@ -4,12 +4,12 @@
 
 **🔭 I’m currently working on:** 
 - My undergraduate studies in Computer Science & Design at the Singapore University of Technology and Design (SUTD).
-- Building a strong foundation in software development and user-centric design through various academic and extracurricular projects.
-- Looking for internship opportunities in Software Engineering and Data Science in the USA for Summer 2024.
+- Building a strong foundation in analytics-driven software development and user-centric design through academic and extracurricular projects.
+- My internship as a Data Science Intern at QuantumStreet AI over the summer of 2024.
 
 **🌱 I’m currently learning:**
 - Developing my skills in Java, Python, TensorFlow 2, C++, C#, JavaScript (React, Angular, Node.js), and HTML5.
-- Exploring new technologies and tools to stay updated in the ever-evolving field of computer science and design. 
+- Exploring new technologies and tools to stay updated in the ever-evolving data-driven computer science & design. 
 
 **👯 I’m looking to collaborate on:**
 - Open-source projects related to software development, user experience design, and innovative applications.
