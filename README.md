@@ -8,7 +8,7 @@
 - My internship as a Data Science Intern at QuantumStreet AI over the summer of 2024.
 
 **🌱 I’m currently learning:**
-- Developing my skills in Java, Python, TensorFlow 2, C++, C#, JavaScript (React, Angular, Node.js), and HTML5.
+- Developing my skills in Java, PyTorch, Tensorflow, JS (React, Angular, Node.js), and HTML5.
 - Exploring new technologies and tools to stay updated in the ever-evolving data-driven computer science & design. 
 
 **👯 I’m looking to collaborate on:**
@@ -20,7 +20,7 @@
 - Academic experiences, project collaborations, and leadership roles.
 - Photography, cycling, and digital art – I'm always up for creative discussions and sharing ideas! 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/https://www.github.com/T2LIPthedeveloper?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://www.github.com/T2LIPthedeveloper?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://www.github.com/T2LIPthedeveloper?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -42,7 +42,7 @@
 <a href= https://github.com/https://www.github.com/T2LIPthedeveloper?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/atulparida'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.t2lipthedeveloper.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/T2LIPthedeveloper'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
