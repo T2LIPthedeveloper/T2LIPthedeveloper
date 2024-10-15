@@ -5,7 +5,7 @@
 **🔭 I’m currently working on:** 
 - My undergraduate studies in Computer Science & Design at the Singapore University of Technology and Design (SUTD).
 - Building a strong foundation in analytics-driven software development and user-centric design through academic and extracurricular projects.
-- My internship as a Data Science Intern at QuantumStreet AI over the summer of 2024.
+- My final year (Capstone) project with industry mentors in building data analytics frameworks.
 
 **🌱 I’m currently learning:**
 - Developing my skills in Java, PyTorch, Tensorflow, JS (React, Angular, Node.js), and HTML5.
