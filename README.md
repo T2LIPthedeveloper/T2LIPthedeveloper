@@ -1,7 +1,7 @@
 # Hi, I'm Atul Parida.
 
 ## About Me
-I'm a soon-to-be graduate in Computer Science & Design from SUTD with a passion for AI, data science, and full-stack development. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, cycling, and digital art.
+I'm a graduate in Computer Science from SUTD with a passion for AI, data science, and full-stack development. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, aviation, cycling, and digital art.
 
 ## What I'm Working On
 - Developing AI-driven analytics and robust data pipelines.  
