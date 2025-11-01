@@ -1,12 +1,12 @@
 # Hi, I'm Atul Parida.
 
 ## About Me
-I'm a graduate in Computer Science from SUTD with a passion for AI, data science, and full-stack development. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, aviation, cycling, and digital art.
+I'm a Computer Science graduate in Austin with a passion for AI, data science, and full-stack development, currently building cool stuff with Visa. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, aviation, hiking and the gym.
 
 ## What I'm Working On
-- Developing AI-driven analytics and robust data pipelines.  
-- Building user-centric web apps with modern frameworks.  
-- Constantly learning new technologies to push boundaries.  
+- Developing agentic analytics solutions and robust data architectures.  
+- Building secure, user-centric features with a tangible value-add to APIs, websites and more.  
+- Constantly learning new technologies and relearning existing ones to push boundaries.  
 
 ## Skills
 <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" alt="PyTorch"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg" alt="TensorFlow"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="Node.js"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" alt="Scikit-Learn"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" alt="Firebase"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" alt="Docker"> <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" alt="PostgreSQL"> 
