@@ -1,7 +1,7 @@
 # Hi, I'm Atul Parida.
 
 ## About Me
-I'm a Computer Science graduate in Austin with a passion for AI, data science, and full-stack development, currently building cool stuff with Visa. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, aviation, hiking and the gym.
+I'm an incoming-MSCS graduate at Georgia Tech with a passion for AI, data science, and full-stack development, currently building cool stuff with Visa in Austin. I build scalable, data-driven applications and enjoy solving complex challenges with creative, user-focused solutions. Outside of coding, I love photography, aviation, hiking and the gym.
 
 ## What I'm Working On
 - Developing agentic analytics solutions and robust data architectures.  
